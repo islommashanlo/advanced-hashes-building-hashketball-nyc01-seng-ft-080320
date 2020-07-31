@@ -1,5 +1,5 @@
 # Write your code here!
-def game_hash
+def game_hash(hashh)
 home: {
     team_name: "",
     colors: [],
