@@ -29,4 +29,5 @@ home: {
       blocks: {},
       slam_dunks: {}
     ]
+  }
 }
