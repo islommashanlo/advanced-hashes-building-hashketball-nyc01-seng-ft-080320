@@ -6,7 +6,7 @@ home: {
     players: [
       player_name: {},
       number: {},
-
+      shoe: {},
     ]
   },
   away: {
