@@ -5,6 +5,7 @@ home: {
     colors: [],
     players: [
       player_name: {},
+      number: {},
 
     ]
   },
